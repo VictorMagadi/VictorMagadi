@@ -2,18 +2,15 @@
 <h1 align="center">I'm Victor Magadi</h1>
 <h3 align="center">A passionate Data Analyst telling stories using Data</h3>
 
-**VictorMagadi/VictorMagadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Financial Forensic data Analysis
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Data Science Projects 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything Data Analysis
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I think am funny**
 - 📫 How to reach me **magadivictor@gmail.com**
 - 📄 Know about my experiences [https://linkedin.com/in/victor-magadi-2a1a2b170](https://linkedin.com/in/victor-magadi-2a1a2b170)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
